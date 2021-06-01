@@ -1,5 +1,6 @@
 {
-  "name": "sociallydev/spaces-api",
+  "name": "jpedro-pereira/spaces-api",
+  "version": "2.1",
   "description": "An API wrapper for DigitalOcean's Spaces object storage designed for easy use",
   "type": "library",
   "require": {
